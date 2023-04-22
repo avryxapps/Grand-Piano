@@ -1,4 +1,4 @@
-# Grand-Piano
+# Grand Piano
 A piano app I made for Android phones. Free to download and use. If interested in acquiring the code please contact me.
 
 ![Screenshot description](Screenshots/screen-0.png)
